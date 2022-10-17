@@ -5,4 +5,4 @@ where name like '%cat'
 
 select distinct cat_name 
 from names_db
-where cat_name like '%boots%'
+where cat_name like '%boots electric%'
