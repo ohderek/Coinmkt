@@ -1,4 +1,4 @@
-select * from tbl2 
+select field1, count_all 
+from tbl2 
 order by 1 desc
-
-limit 10;
+limit 1;
